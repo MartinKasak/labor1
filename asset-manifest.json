@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/labor1/static/css/main.75ca7447.css",
+    "main.js": "/labor1/static/js/main.9b22c070.js",
+    "index.html": "/labor1/index.html",
+    "main.75ca7447.css.map": "/labor1/static/css/main.75ca7447.css.map",
+    "main.9b22c070.js.map": "/labor1/static/js/main.9b22c070.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75ca7447.css",
+    "static/js/main.9b22c070.js"
+  ]
+}
